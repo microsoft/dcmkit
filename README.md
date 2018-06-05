@@ -5,12 +5,12 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migration Journey Overview (pptx)
 
 ## Migration Planning
-- Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true)
-- Migration Plan Template ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Plan%20template.docx?raw=true)
+- Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
+- Migration Plan Template ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Plan%20template.docx?raw=true))
 - Example - Discovery Summary ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Example%20-%20Discovery%20Summary.pptx?raw=true))
 - Migrating Datacenter to Azure ([link #1](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/migrating-datacenter-to-azure-part-1/) and [link #2](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/15/migration-datacenter-to-azure-part-2/))
 - VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
-- VM Assessment with Azure Migrate (pptx)
+- VM Assessment with Azure Migrate ([link](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 
 ## CSP Onboarding
@@ -31,13 +31,14 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 ## Understanding Azure Database Services
 - Azure Data Story (link)
-- Options for running SQL Server in Azure (pptx)
+- Options for running SQL Server in Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/SQL%20Server%20Migration%20Options.pptx?raw=true))
 - Using DMA and DMS for SQL Server migrations (pptx)
-- MySQL and PostgreSQL in Azure (pptx)
-- Azure SQL Data Warehouse Overview (link)
+- Azure Database Services for MySQL, PostgreSQL and MariaDB ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Database%20Services%20for%20MySQL%2C%20PostgreSQL%20and%20MariaDB.pptx?raw=true))
+- Azure SQL Data Warehouse Overview ([link](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is))
+- Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
 
 ## Migration technics
-- VM lift&shift using Azure Site Recovery (pptx, [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
+- VM lift&shift using Azure Site Recovery ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migrate%20VMs%20with%20Azure%20Site%20Recovery.pptx?raw=true), [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
 - Containerizing apps for Azure (link)
 - Uploading large amounts of data to Azure (pptx)
