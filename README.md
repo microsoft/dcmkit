@@ -21,14 +21,14 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - API integration with Azure in CSP (link)
 
 ## Understanding Azure IaaS
-- Azure Compute Overview (pptx)
-- Azure Networking Overview (pptx)
-- Azure Storage Overview (pptx)
-- Cost optimizations for Azure IaaS (pptx)
-- Azure Reserved VM Instances Overview (link)
-- Working with Azure Reserved VM Instances in CSP (link)
-- Azure Hybrid Use Benefit for Windows Server Overview (link)
-- Using Azure Hybrid Use Benefit for Windows Server (link)
+- Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx))
+- Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx))
+- Azure Storage Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Storage%20Overview.pptx))
+- Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx))
+- Azure Reserved VM Instances Overview ([link](https://azure.microsoft.com/pricing/reserved-vm-instances))
+- Working with Azure Reserved VM Instances in CSP ([link](https://docs.microsoft.com/partner-center/azure-reservations))
+- Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server))
+- Using Azure Hybrid Use Benefit for Windows Server ([video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
 
 ## Understanding Azure Database Services
 - Azure Data Story (link)
