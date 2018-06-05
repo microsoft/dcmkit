@@ -12,6 +12,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migrating Datacenter to Azure ([link #1](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/migrating-datacenter-to-azure-part-1/) and [link #2](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/15/migration-datacenter-to-azure-part-2/))
 - VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
 - VM Assessment with Azure Migrate ([link](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware))
+- SQL Server Assessment with Data Migration Assistant ([link](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 
 ## CSP Onboarding
@@ -41,8 +42,9 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migration Technics Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Technics%20Overview.pptx?raw=true))
 - VM lift&shift using Azure Site Recovery ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migrate%20VMs%20with%20Azure%20Site%20Recovery.pptx?raw=true), [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
-- Moving SQL Server databases to Azure SQL Database with DMA and DMS ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-cloud-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql))
-- Moving SQL Server to Azure SQL Database Managed Instance using DMS ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-managed-instance))
+- Moving SQL Server databases to Azure SQL Database service ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-cloud-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql))
+- Moving SQL Server to Azure SQL Database Managed Instance ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-managed-instance))
+- Migration of old Access, DB2, 
 - Containerizing apps for Azure (link)
 
 ## Optimizing Azure environments
