@@ -46,6 +46,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
 - Moving SQL Server databases to Azure SQL Database service ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-cloud-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql))
 - Moving SQL Server to Azure SQL Database Managed Instance ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-managed-instance))
+- Attunity Replicate for Azure Database Migrations ([link](https://www.attunity.com/products/replicate/attunity-replicate-for-microsoft-migration/))
 - Migrating Access, DB2, MySQL, Oracle and Sybase databases to Azure SQL Database using SSMA ([link](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017))
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
 
