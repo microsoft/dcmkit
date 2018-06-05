@@ -2,7 +2,7 @@
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
 ## Getting started
-- Migration Journey Overview (pptx)
+- DCM Migration Journey Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Journey%20Overview.pptx?raw=true))
 
 ## Migration Planning
 - Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
