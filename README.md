@@ -29,7 +29,6 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server) and [video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
 
 ## Understanding Azure Database Services
-- Azure Data Story (link)
 - Options for running SQL Server in Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/SQL%20Server%20Migration%20Options.pptx?raw=true))
 - Azure SQL Database Managed Instance Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20SQL%20Database%20Managed%20Instance%20Overview.pptx?raw=true))
 - Azure Hybrid Use Benefit for SQL Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#sql-server))
@@ -38,10 +37,10 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
 
 ## Migration technics
+- Migration Technics Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Technics%20Overview.pptx?raw=true))
 - VM lift&shift using Azure Site Recovery ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migrate%20VMs%20with%20Azure%20Site%20Recovery.pptx?raw=true), [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
 - Containerizing apps for Azure (link)
-- Uploading large amounts of data to Azure (pptx)
 
 ## Optimizing Azure environments
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
