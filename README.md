@@ -40,7 +40,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 ## Migration technics
 - VM lift&shift using Azure Site Recovery (pptx)
-- Using Azure Database Migration Service for SQL Server migrations (pptx)
+- Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
 - Containerizing apps for Azure (link)
 - Uploading large amounts of data to Azure (pptx)
 
