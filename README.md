@@ -15,10 +15,10 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Calculator (link)
 
 ## CSP Onboarding
-- Azure in CSP 101 (pptx)
-- Azure in CSP Overview (link)
-- Partner Center Overview (link)
-- API integration with Azure in CSP (link)
+- Azure in CSP 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20in%20CSP%20101.pptx?raw=true))
+- Azure in CSP Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/azure-csp-overview))
+- Partner Center Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/partner-center-overview))
+- API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 
 ## Understanding Azure IaaS
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx))
