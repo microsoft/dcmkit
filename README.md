@@ -1,4 +1,3 @@
-
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
@@ -39,7 +38,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure SQL Data Warehouse Overview (link)
 
 ## Migration technics
-- VM lift&shift using Azure Site Recovery (pptx)
+- VM lift&shift using Azure Site Recovery (pptx, [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
 - Containerizing apps for Azure (link)
 - Uploading large amounts of data to Azure (pptx)
