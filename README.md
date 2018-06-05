@@ -1,4 +1,3 @@
-
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
@@ -24,6 +23,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 
 ## Understanding Azure IaaS
+- Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
 - Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx?raw=true))
 - Azure Storage Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Storage%20Overview.pptx?raw=true))
