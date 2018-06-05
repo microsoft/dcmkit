@@ -13,6 +13,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
 - VM Assessment with Azure Migrate ([link](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware))
 - SQL Server Assessment with Data Migration Assistant ([link](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017))
+- Template - Database Migration Proposal for Customers ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/Template%20-%20Database%20Migration%20Proposal%20for%20Customers.docx?raw=true))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 
 ## CSP Onboarding
@@ -20,6 +21,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure in CSP Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/azure-csp-overview))
 - Partner Center Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/partner-center-overview))
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
+- Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 
 ## Understanding Azure IaaS
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
@@ -45,14 +47,14 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Moving SQL Server databases to Azure SQL Database service ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-cloud-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql))
 - Moving SQL Server to Azure SQL Database Managed Instance ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-managed-instance))
 - Migrating Access, DB2, MySQL, Oracle and Sybase databases to Azure SQL Database using SSMA ([link](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017))
-- Containerizing apps for Azure (link)
+- Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
 
 ## Optimizing Azure environments
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
-- Moving from VMs to Containers (link)
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
-- Azure Security Center Overview (?)
+- Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
+- Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 
 If you have any technical questions, feel free to reach us on [dcmsupport@microsoft.com](mailto:dcmsupport@microsoft.com) (for signed program partners only).
