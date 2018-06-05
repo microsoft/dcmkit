@@ -1,19 +1,60 @@
 
-# Contributing
+# Microsoft Datacenter Migration Program Kit (DCM Kit)
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+## Getting started
+- Migration Journey Overview (pptx)
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Migration Planning
+- Migration Planning Overview (pptx)
+- Migration Plan Template (docx)
+- Viability study methodology (pptx)
+- Example - Discovery Summary (pptx)
+- VM Assessment with Cloudamize (pptx)
+- VM Assessment with Cloudamize (video)
+- VM Assessment with Azure Migrate (pptx)
+- Azure Calculator (link)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## CSP Onboarding
+- Azure in CSP 101 (pptx)
+- Azure in CSP Overview (link)
+- Partner Center Overview (link)
+- API integration with Azure in CSP (link)
 
-# Legal Notices
+## Understanding Azure IaaS
+- Azure Compute Overview (pptx)
+- Azure Networking Overview (pptx)
+- Azure Storage Overview (pptx)
+- Cost optimizations for Azure IaaS (pptx)
+- Azure Reserved VM Instances Overview (link)
+- Working with Azure Reserved VM Instances in CSP (link)
+- Azure Hybrid Use Benefit for Windows Server Overview (link)
+- Using Azure Hybrid Use Benefit for Windows Server (link)
+
+## Understanding Azure Database Services
+- Azure Data Story (link)
+- Options for running SQL Server in Azure (pptx)
+- Using DMA and DMS for SQL Server migrations (pptx)
+- MySQL and PostgreSQL in Azure (pptx)
+- Azure SQL Data Warehouse Overview (link)
+
+## Migration technics
+- VM lift&shift using Azure Site Recovery (pptx)
+- Using Azure Database Migration Service for SQL Server migrations (pptx)
+- Containerizing apps for Azure (link)
+- Uploading large amounts of data to Azure (pptx)
+
+## Optimizing Azure environments
+- MSP Playbook (pdf)
+- Cost optimizations for Azure IaaS (pptx)
+- Moving from VMs to Containers (link)
+- Backup of Azure VMs (pptx)
+- Azure Security Center Overview (?)
+- Capabilities for GDPR compliance in Azure (link)
+
+If you have any technical questions, feel free to reach us on [dcmsupport@microsoft.com](mailto:dcmsupport@microsoft.com) (for signed program partners only).
+
+### Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
