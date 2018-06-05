@@ -5,14 +5,13 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migration Journey Overview (pptx)
 
 ## Migration Planning
-- Migration Planning Overview (pptx)
-- Migration Plan Template (docx)
-- Viability study methodology (pptx)
-- Example - Discovery Summary (pptx)
-- VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
-- VM Assessment with Cloudamize (video)
+- Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true)
+- Migration Plan Template ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Plan%20template.docx?raw=true)
+- Example - Discovery Summary ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Example%20-%20Discovery%20Summary.pptx?raw=true))
+- Migrating Datacenter to Azure ([link #1](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/migrating-datacenter-to-azure-part-1/) and [link #2](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/15/migration-datacenter-to-azure-part-2/))
+- VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
 - VM Assessment with Azure Migrate (pptx)
-- Azure Calculator (link)
+- Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 
 ## CSP Onboarding
 - Azure in CSP 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20in%20CSP%20101.pptx?raw=true))
@@ -21,10 +20,10 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 
 ## Understanding Azure IaaS
-- Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx))
-- Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx))
-- Azure Storage Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Storage%20Overview.pptx))
-- Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx))
+- Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
+- Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx?raw=true))
+- Azure Storage Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Storage%20Overview.pptx?raw=true))
+- Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
 - Azure Reserved VM Instances Overview ([link](https://azure.microsoft.com/pricing/reserved-vm-instances))
 - Working with Azure Reserved VM Instances in CSP ([link](https://docs.microsoft.com/partner-center/azure-reservations))
 - Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server))
