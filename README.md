@@ -9,7 +9,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migration Plan Template (docx)
 - Viability study methodology (pptx)
 - Example - Discovery Summary (pptx)
-- VM Assessment with Cloudamize (pptx)
+- VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
 - VM Assessment with Cloudamize (video)
 - VM Assessment with Azure Migrate (pptx)
 - Azure Calculator (link)
