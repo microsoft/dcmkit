@@ -26,13 +26,13 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
 - Azure Reserved VM Instances Overview ([link](https://azure.microsoft.com/pricing/reserved-vm-instances))
 - Working with Azure Reserved VM Instances in CSP ([link](https://docs.microsoft.com/partner-center/azure-reservations))
-- Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server))
-- Using Azure Hybrid Use Benefit for Windows Server ([video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
+- Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server) and [video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
 
 ## Understanding Azure Database Services
 - Azure Data Story (link)
 - Options for running SQL Server in Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/SQL%20Server%20Migration%20Options.pptx?raw=true))
-- Using DMA and DMS for SQL Server migrations (pptx)
+- Azure SQL Database Managed Instance Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20SQL%20Database%20Managed%20Instance%20Overview.pptx?raw=true))
+- Azure Hybrid Use Benefit for SQL Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#sql-server))
 - Azure Database Services for MySQL, PostgreSQL and MariaDB ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Database%20Services%20for%20MySQL%2C%20PostgreSQL%20and%20MariaDB.pptx?raw=true))
 - Azure SQL Data Warehouse Overview ([link](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is))
 - Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
