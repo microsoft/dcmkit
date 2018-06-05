@@ -44,11 +44,11 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Uploading large amounts of data to Azure (pptx)
 
 ## Optimizing Azure environments
-- MSP Playbook (pdf)
-- Cost optimizations for Azure IaaS (pptx)
+- MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
+- Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
 - Moving from VMs to Containers (link)
-- Backup of Azure VMs (pptx)
+- Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
 - Azure Security Center Overview (?)
-- Capabilities for GDPR compliance in Azure (link)
+- Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 
 If you have any technical questions, feel free to reach us on [dcmsupport@microsoft.com](mailto:dcmsupport@microsoft.com) (for signed program partners only).
