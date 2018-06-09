@@ -14,6 +14,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - SQL Server Assessment with Data Migration Assistant ([link](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017))
 - Template - Database Migration Proposal for Customers ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/Template%20-%20Database%20Migration%20Proposal%20for%20Customers.docx?raw=true))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
+- Azure Migration Campaign ([link](https://partner.microsoft.com/asset/collection/azure-migration-campaign))
+- Cloud Migration Essentials eBook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Cloud%20Migration%20Essentials%20eBook.pdf?raw=true))
 
 ## CSP Onboarding
 - Azure in CSP 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20in%20CSP%20101.pptx?raw=true))
