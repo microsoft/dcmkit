@@ -56,6 +56,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
 - Options for monitoring in Azure ([link](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview))
+- Monitoring multiple customers with Log Analytics (coming soon)
 - Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
 - Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
