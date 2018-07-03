@@ -1,5 +1,5 @@
-# Microsoft Datacenter Migration Program Kit (DCM Kit)
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
+ # Microsoft Datacenter Migration Program Kit (DCM Kit)
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: July 3rd, 2018.
 
 ## Getting started
 - DCM Migration Journey Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Journey%20Overview.pptx?raw=true))
