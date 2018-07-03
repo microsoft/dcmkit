@@ -1,4 +1,4 @@
- # Microsoft Datacenter Migration Program Kit (DCM Kit)
+# Microsoft Datacenter Migration Program Kit (DCM Kit)
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: July 3rd, 2018.
 
 ## Getting started
@@ -31,6 +31,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Reserved VM Instances Overview ([link](https://azure.microsoft.com/pricing/reserved-vm-instances))
 - Working with Azure Reserved VM Instances in CSP ([link](https://docs.microsoft.com/partner-center/azure-reservations))
 - Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server) and [video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
+- Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
 
 ## Understanding Azure Database Services
 - Options for running SQL Server in Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/SQL%20Server%20Migration%20Options.pptx?raw=true))
@@ -54,6 +55,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
+- Options for monitoring in Azure ([link](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview))
 - Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
 - Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
