@@ -14,11 +14,13 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - SQL Server Assessment with Data Migration Assistant ([link](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017))
 - Template - Database Migration Proposal for Customers ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/Template%20-%20Database%20Migration%20Proposal%20for%20Customers.docx?raw=true))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
+- Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 
 ## CSP Onboarding
 - Azure in CSP 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20in%20CSP%20101.pptx?raw=true))
 - Azure in CSP Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/azure-csp-overview))
 - Partner Center Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/partner-center-overview))
+- Identity and Right Management in CSP model ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/identity-and-rights-management-in-csp-model-part2))
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 
@@ -31,6 +33,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Reserved VM Instances Overview ([link](https://azure.microsoft.com/pricing/reserved-vm-instances))
 - Working with Azure Reserved VM Instances in CSP ([link](https://docs.microsoft.com/partner-center/azure-reservations))
 - Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server) and [video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
+- Azure IaaS Operations Guidance ([link](http://aka.ms/Azure/IaaSOpsGuide)) 
 - Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
 
 ## Understanding Azure Database Services
