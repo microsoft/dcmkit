@@ -23,6 +23,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Identity and Right Management in CSP model ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/identity-and-rights-management-in-csp-model-part2))
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
+- CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/KirillKotlyarenko-patch-1/files/Regional%20Authorization%20FAQ.pdf?raw=true))
 
 ## Understanding Azure IaaS
 - Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
@@ -53,15 +54,19 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Attunity Replicate for Azure Database Migrations ([link](https://www.attunity.com/products/replicate/attunity-replicate-for-microsoft-migration/))
 - Migrating Access, DB2, MySQL, Oracle and Sybase databases to Azure SQL Database using SSMA ([link](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017))
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
+- IIS migration to Azure App Service using App Service Migration Assistant ([link](https://azure.microsoft.com/en-us/downloads/migration-assistant/))
+- Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/KirillKotlyarenko-patch-1/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
 
 ## Optimizing Azure environments
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
+- Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
 - Options for monitoring in Azure ([link](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview))
 - Multi-customer monitoring with Azure Log Analytics (coming soon)
 - Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
 - Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
+- Performance best practices for SQL Server in Azure Virtual Machines ([link](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
 
