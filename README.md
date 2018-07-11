@@ -63,7 +63,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
 - Options for monitoring in Azure ([link](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview))
-- Multi-customer monitoring with Azure Log Analytics (coming soon)
+- Multi-customer monitoring with Azure Log Analytics ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/support/monitor-multiple-customers))
 - Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
 - Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
 - Performance best practices for SQL Server in Azure Virtual Machines ([link](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json))
