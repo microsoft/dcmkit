@@ -24,7 +24,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Identity and Right Management in CSP model ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/identity-and-rights-management-in-csp-model-part2))
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
-- CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/KirillKotlyarenko-patch-1/files/Regional%20Authorization%20FAQ.pdf?raw=true))
+- CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Regional%20Authorization%20FAQ.pdf?raw=true))
 
 ## Understanding Azure IaaS
 - Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
@@ -56,7 +56,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migrating Access, DB2, MySQL, Oracle and Sybase databases to Azure SQL Database using SSMA ([link](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017))
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
 - IIS migration to Azure App Service using App Service Migration Assistant ([link](https://azure.microsoft.com/en-us/downloads/migration-assistant/))
-- Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/KirillKotlyarenko-patch-1/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
+- Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
 
 ## Optimizing Azure environments
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
