@@ -61,6 +61,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 ## Optimizing Azure environments
 - MSP Playbook ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20MSP%20Playbook.pdf?raw=true))
 - Cost optimizations for Azure IaaS ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Cost%20optimizations%20for%20Azure%20IaaS.pptx?raw=true))
+- Moving Windows Server and SQL Server licenses from SPLA to CSP ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/08/08/moving-windows-server-and-sql-server-licenses-from-spla-to-csp/))
 - Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 - Backup of Azure VMs ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Backup%20of%20Azure%20VMs.pptx))
 - Options for monitoring in Azure ([link](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview))
