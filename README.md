@@ -3,6 +3,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 
 ## Getting started
 - DCM Migration Journey Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Journey%20Overview.pptx?raw=true))
+- Azure Strategic Implementation Guide for IT Organizations New to Azure ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Azure_Strategic_Implementation_Guide_for_IT_Organizations_New_to_Azure.pdf?raw=true))
 
 ## Migration Planning
 - Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
