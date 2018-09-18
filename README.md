@@ -17,6 +17,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 - Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
 - Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
+- Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
 
 ## CSP Onboarding
 - Azure in CSP 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20in%20CSP%20101.pptx?raw=true))
