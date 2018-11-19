@@ -1,11 +1,12 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: September 18th, 2018.
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: November 12th, 2018.
 
 ## Getting started
 
 - DCM Migration Journey Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Journey%20Overview.pptx?raw=true))
 - Azure Strategic Implementation Guide for IT Organizations New to Azure ([pdf](/files/Azure_Strategic_Implementation_Guide_for_IT_Organizations_New_to_Azure.pdf))
+- Updates from Ignite 2018 ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/10/18/datacenter-migration-updates-from-ignite-2018/))
 
 ## Migration Planning
 
@@ -60,8 +61,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migration Techniques Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Technics%20Overview.pptx?raw=true))
 - VM lift & shift using Azure Site Recovery ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migrate%20VMs%20with%20Azure%20Site%20Recovery.pptx?raw=true), [video #1](https://1drv.ms/v/s!ArJ-zhtNeLsamM0b3irmF9Ai_-dIWA) and [video #2](https://1drv.ms/v/s!ArJ-zhtNeLsamM0Ji5eWvAgOIxxanA))
 - Azure Database Migration Guide ([link](https://datamigration.microsoft.com))
-- Moving SQL Server databases to Azure SQL Database service ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-cloud-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql))
-- Moving SQL Server to Azure SQL Database Managed Instance ([link #1](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance-migrate) and [link #2](https://docs.microsoft.com/azure/dms/tutorial-sql-server-to-managed-instance))
+- Migration from SQL Server to Azure SQL Database Managed Instance ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/11/02/migration-from-sql-server-to-azure-sql-database-managed-instance/))
 - Attunity Replicate for Azure Database Migrations ([link](https://www.attunity.com/products/replicate/attunity-replicate-for-microsoft-migration/))
 - Migrating Access, DB2, MySQL, Oracle and Sybase databases to Azure SQL Database using SSMA ([link](https://docs.microsoft.com/en-us/sql/ssma/sql-server-migration-assistant?view=sql-server-2017))
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
@@ -79,7 +79,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Why it is important to create support requests ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/08/30/why-it-is-important-to-create-azure-support-requests/))
 - Multi-customer monitoring with Azure Log Analytics ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/support/monitor-multiple-customers))
 - Azure Security Center Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-friday-azure-security-center/) and [link](https://azure.microsoft.com/en-gb/blog/announcing-new-azure-security-center-capabilities-at-rsa-2018/))
-- Azure Container Services Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Container%20Services%20Overview.pptx?raw=true))
+- Azure Kubernetes Services Overview ([video](https://azure.microsoft.com/en-us/resources/videos/azure-kubernetes-service-overview/))
 - Performance best practices for SQL Server in Azure Virtual Machines ([link](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
