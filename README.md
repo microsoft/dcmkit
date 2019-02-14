@@ -1,6 +1,6 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: November 12th, 2018.
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: March 13th, 2019.
 
 ## Getting started
 
@@ -20,7 +20,6 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Template - Database Migration Proposal for Customers ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/Template%20-%20Database%20Migration%20Proposal%20for%20Customers.docx?raw=true))
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 - Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
-- Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 - Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
 
 ## CSP Onboarding
@@ -84,4 +83,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
 
-If you have any technical questions, feel free to reach us on [dcmsupport@microsoft.com](mailto:dcmsupport@microsoft.com) (for signed program partners only).
+## Other learning resources
+- Microsoft Cloud Workshop catalog ([link](https://github.com/Microsoft/MCW))
+- Microsoft Learn ([link](https://docs.microsoft.com/en-us/learn/azure/))
+- Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
