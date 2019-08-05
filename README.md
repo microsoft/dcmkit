@@ -8,6 +8,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Strategic Implementation Guide for IT Organizations New to Azure ([pdf](/files/Azure_Strategic_Implementation_Guide_for_IT_Organizations_New_to_Azure.pdf))
 - Updates from Ignite 2018 ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/10/18/datacenter-migration-updates-from-ignite-2018/))
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
+- Cloud Adoption Framwork ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 
 
 ## Migration Planning
