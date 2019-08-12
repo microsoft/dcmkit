@@ -9,6 +9,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Updates from Ignite 2018 ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/10/18/datacenter-migration-updates-from-ignite-2018/))
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
+- Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
+
 
 
 ## Migration Planning
