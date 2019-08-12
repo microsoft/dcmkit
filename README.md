@@ -1,6 +1,6 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: July 31th, 2019.
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: August 12th, 2019.
 
 ## Getting started
 
@@ -14,7 +14,6 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 ## Migration Planning
 
 - Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
-- Migration Plan Template ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Plan%20template.docx?raw=true))
 - Example - Discovery Summary ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Example%20-%20Discovery%20Summary.pptx?raw=true))
 - Migrating Datacenter to Azure ([link #1](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/migrating-datacenter-to-azure-part-1/) and [link #2](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/15/migration-datacenter-to-azure-part-2/))
 - VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
@@ -69,6 +68,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
 - IIS migration to Azure App Service using App Service Migration Assistant ([link](https://www.migratetoazure.net/))
 - Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
+-  Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
 
 ## Optimizing Azure environments
 
@@ -85,8 +85,23 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Performance best practices for SQL Server in Azure Virtual Machines ([link](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json))
 - Capabilities for GDPR compliance in Azure ([link](https://azure.microsoft.com/en-us/blog/new-capabilities-to-enable-robust-gdpr-compliance/))
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
+- Fundamentals of kubernetes on Azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77059?source=sessions))
+- Operate your application & infrastructure with powershell in Azure function **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77786?source=sessions))
 
 ## Other learning resources
 - Microsoft Cloud Workshop catalog ([link](https://github.com/Microsoft/MCW))
 - Microsoft Learn ([link](https://docs.microsoft.com/en-us/learn/azure/))
+- Azure migrate on partner network ([link](https://partner.microsoft.com/en-US/asset/collection/azure-migration-campaign#/))
+- Training center on partner network ([link](https://partner.microsoft.com/en-US/training/training-center))
 - Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
+
+## Certification
+- Roadmap ([link](https://future-proof.net/wp-content/uploads/2019/05/Certification_roadmap.pdf))
+
+## Azure
+Inside azure datacenter **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77002?source=sessions))
+
+**Tips and trics**
+- improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
+- more tips ([link](https://microsoft.github.io/AzureTipsAndTricks/))
+- build session on Azure tips&trics **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77252?source=sessions))
