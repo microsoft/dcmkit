@@ -38,7 +38,7 @@ Last update: August 19, 2019.
 
 ## Understanding Azure IaaS
 
-- Cloud principles playbook ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Cloud%20Principles%20Playbook%20-%202019-08-13.pdf))
+- Cloud principles playbook ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Cloud%20Principles%20Playbook%20-%202019-08-13.pdf?raw=true))
 - Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
 - Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx?raw=true))
