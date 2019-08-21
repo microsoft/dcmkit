@@ -40,6 +40,7 @@ Last update: August 19, 2019.
 ## Understanding Azure IaaS
 
 - Cloud principles playbook ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Cloud%20Principles%20Playbook%20-%202019-08-13.pdf?raw=true))
+- Quoting Azure IAAS ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Quoting%20Azure%20IaaS.pdf?raw=true))
 - Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
 - Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx?raw=true))
@@ -78,6 +79,7 @@ Last update: August 19, 2019.
 - IIS migration to Azure App Service using App Service Migration Assistant ([link](https://www.migratetoazure.net/))
 - Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
 - Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
+- Migrating VDI to WVD ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Migration%20Guide%20-%20Windows%20Client%20Desktop%20(VDI)%20to%20WVD.pdf?raw=true))
 
 ## Optimizing Azure environments
 
