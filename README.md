@@ -1,8 +1,8 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
-
+  
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. 
 
-Last update: August 19, 2019.
+Last update: November 26, 2019.
 
 ## Getting started
 
@@ -12,6 +12,7 @@ Last update: August 19, 2019.
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
+- Azure compliance and data residency ([link](https://azure.microsoft.com/en-us/resources/achieving-compliant-data-residency-and-security-with-azure/))
 
 ## Migration Planning
 
@@ -35,7 +36,7 @@ Last update: August 19, 2019.
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 - CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Regional%20Authorization%20FAQ.pdf?raw=true))
-- New commerce platform ([link](https://www.microsoft.com/en-us/licensing/news/improving-azure-experience))
+- New commerce platform ([link](https://partner.microsoft.com/en-US/resources/collection/new-azure-experience-in-csp#/))
 
 ## Understanding Azure IaaS
 
@@ -80,6 +81,7 @@ Last update: August 19, 2019.
 - Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
 - Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
 - Migrating VDI to WVD ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Migration%20Guide%20-%20Windows%20Client%20Desktop%20(VDI)%20to%20WVD.pdf?raw=true))
+- Azure LISP ([link](https://github.com/microsoft/Azure-LISP))
 
 ## Optimizing Azure environments
 
