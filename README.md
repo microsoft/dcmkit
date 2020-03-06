@@ -1,6 +1,8 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
+  
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: March 6th, 2020.
+Last update: March 6, 2020
 
 ## Getting started
 
@@ -34,9 +36,12 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 - CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Regional%20Authorization%20FAQ.pdf?raw=true))
+- New commerce platform ([link](https://partner.microsoft.com/en-US/resources/collection/new-azure-experience-in-csp#/))
 
 ## Understanding Azure IaaS
 
+- Cloud principles playbook ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Cloud%20Principles%20Playbook%20-%202019-08-13.pdf?raw=true))
+- Quoting Azure IAAS ([pdf](https://github.com/microsoft/dcmkit/blob/master/files/Quoting%20Azure%20IaaS.pdf?raw=true))
 - Azure IaaS 101 ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20IaaS%20Overview.pptx?raw=true))
 - Azure Compute Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Compute%20Overview.pptx?raw=true))
 - Azure Networking Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Networking%20Overview.pptx?raw=true))
@@ -58,6 +63,11 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure SQL Data Warehouse Overview ([link](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is))
 - Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
 
+## Understanding Windows virtual Desktop
+
+- Windows virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
+- Windows virtual Desktop **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77015?source=sessions))
+
 ## Migration techniques
 
 - Migration Techniques Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Technics%20Overview.pptx?raw=true))
@@ -72,7 +82,6 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
 - Azure migrate tutorial **Microsoft Mechanics** ([link](https://www.youtube.com/watch?v=0s2ZqHgieT0&feature=youtu.be))
 - An end-to-end process for lifting and shifting your applications to Azure ([link](https://techcommunity.microsoft.com/t5/microsoft-data-migration/an-end-to-end-process-for-lifting-and-shifting-your-applications/ba-p/924874))
-
 
 ## Optimizing Azure environments
 
@@ -95,6 +104,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Combining Azure Lighthouse with Sentinel’s DevOps capabilities ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#))
 
 ## Other learning resources
+
 - Microsoft Cloud Workshop catalog ([link](https://github.com/Microsoft/MCW))
 - Microsoft Learn ([link](https://docs.microsoft.com/en-us/learn/azure/))
 - Azure migrate on partner network ([link](https://partner.microsoft.com/en-US/asset/collection/azure-migration-campaign#/))
@@ -102,12 +112,15 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Architecture Center ([link](https://docs.microsoft.com/en-us/azure/architecture/))
 
 ## Certification
+
 - Roadmap ([link](https://future-proof.net/wp-content/uploads/2019/05/Certification_roadmap.pdf))
 
 ## Azure
+
 Inside azure datacenter **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77002?source=sessions))
 
-**Tips and trics**
+Tips and Trics
+
 - improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
 - more tips ([link](https://microsoft.github.io/AzureTipsAndTricks/))
 - build session on Azure tips&trics **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77252?source=sessions))
