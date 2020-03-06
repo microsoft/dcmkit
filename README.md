@@ -1,6 +1,6 @@
 # Microsoft Datacenter Migration Program Kit (DCM Kit)
 
-DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: August 12th, 2019.
+DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey. Last update: March 6th, 2020.
 
 ## Getting started
 
@@ -10,6 +10,7 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
+- Turning to a new chapter of Windows Server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 
 
 
@@ -70,7 +71,10 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Converting apps to Azure Containers ([link](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app))
 - IIS migration to Azure App Service using App Service Migration Assistant ([link](https://www.migratetoazure.net/))
 - Mainframe migration to Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Mainframe%20migration%20to%20Azure.pptx?raw=true))
--  Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
+- Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
+- Azure migrate tutorial **Microsoft Mechanics** ([link](https://www.youtube.com/watch?v=0s2ZqHgieT0&feature=youtu.be))
+- An end-to-end process for lifting and shifting your applications to Azure ([link](https://techcommunity.microsoft.com/t5/microsoft-data-migration/an-end-to-end-process-for-lifting-and-shifting-your-applications/ba-p/924874))
+
 
 ## Optimizing Azure environments
 
@@ -89,6 +93,8 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
 - Fundamentals of kubernetes on Azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77059?source=sessions))
 - Operate your application & infrastructure with powershell in Azure function **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77786?source=sessions))
+- Deploying and Managing Azure Sentinal as Code ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928))
+- Combining Azure Lighthouse with Sentinel’s DevOps capabilities ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#))
 
 ## Other learning resources
 - Microsoft Cloud Workshop catalog ([link](https://github.com/Microsoft/MCW))
