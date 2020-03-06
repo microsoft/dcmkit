@@ -12,8 +12,6 @@ DCM Kit is a set of materials in a form of documents, decks and external links t
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
 - Turning to a new chapter of Windows Server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 
-
-
 ## Migration Planning
 
 - Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
