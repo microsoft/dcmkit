@@ -63,9 +63,9 @@ Last update: April 14, 2020
 - Azure Database Services for MySQL, PostgreSQL and MariaDB ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Database%20Services%20for%20MySQL%2C%20PostgreSQL%20and%20MariaDB.pptx?raw=true))
 - Azure SQL Data Warehouse Overview ([link](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is))
 - Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
-Getting started with Azure Cosmos DB ([link](https://www.youtube.com/playlist?list=PLmamF3YkHLoLLGUtSoxmUkORcWaTyHlXp))
-Onboarding Cosmos DB Best practises ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
-Optimizing performance and ROI with Cosmos DB ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
+- Getting started with Azure Cosmos DB ([link](https://www.youtube.com/playlist?list=PLmamF3YkHLoLLGUtSoxmUkORcWaTyHlXp))
+- Onboarding Cosmos DB Best practises ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
+- Optimizing performance and ROI with Cosmos DB ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
 
 ## Understanding Windows virtual Desktop
 
