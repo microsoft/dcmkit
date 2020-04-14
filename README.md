@@ -2,13 +2,12 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: March 6, 2020
+Last update: April 14, 2020
 
 ## Getting started
 
 - DCM Migration Journey Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/DCM%20Migration%20Journey%20Overview.pptx?raw=true))
 - Azure Strategic Implementation Guide for IT Organizations New to Azure ([pdf](/files/Azure_Strategic_Implementation_Guide_for_IT_Organizations_New_to_Azure.pdf))
-- Updates from Ignite 2018 ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2018/10/18/datacenter-migration-updates-from-ignite-2018/))
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
@@ -26,6 +25,7 @@ Last update: March 6, 2020
 - Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
 - Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
 - Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
+- Migration guide for Windows server ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-migration-guide-for-windows-server/Azure_Migration_Guide_for_Windows_Server.pdf/))
 
 ## CSP Onboarding
 
@@ -53,6 +53,7 @@ Last update: March 6, 2020
 - Azure IaaS Operations Guidance ([link](http://aka.ms/Azure/IaaSOpsGuide))
 - Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
 - Deployment of Citrix XenApp and XenDesktop in Azure ([link](https://azurecitadel.github.io/videos/citrixonazure/))
+- Turning to a new chapter of windows server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 
 ## Understanding Azure Database Services
 
@@ -62,6 +63,9 @@ Last update: March 6, 2020
 - Azure Database Services for MySQL, PostgreSQL and MariaDB ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20Database%20Services%20for%20MySQL%2C%20PostgreSQL%20and%20MariaDB.pptx?raw=true))
 - Azure SQL Data Warehouse Overview ([link](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is))
 - Azure Cosmos DB Overview ([link](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction))
+Getting started with Azure Cosmos DB ([link](https://www.youtube.com/playlist?list=PLmamF3YkHLoLLGUtSoxmUkORcWaTyHlXp))
+Onboarding Cosmos DB Best practises ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
+Optimizing performance and ROI with Cosmos DB ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
 
 ## Understanding Windows virtual Desktop
 
@@ -102,6 +106,10 @@ Last update: March 6, 2020
 - Operate your application & infrastructure with powershell in Azure function **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77786?source=sessions))
 - Deploying and Managing Azure Sentinal as Code ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928))
 - Combining Azure Lighthouse with Sentinel’s DevOps capabilities ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#))
+
+## Culture
+
+- Five steps to culture change ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/five-steps-to-culture-change/Five%20Steps%20to%20Culture%20Change.pdf))
 
 ## Other learning resources
 
