@@ -52,7 +52,7 @@ Last update: April 14, 2020
 - Azure Hybrid Use Benefit for Windows Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#windows-server) and [video](https://www.youtube.com/watch?v=YPv5SpTbzWs&t=23s))
 - Azure IaaS Operations Guidance ([link](http://aka.ms/Azure/IaaSOpsGuide))
 - Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
-- Deployment of Citrix XenApp and XenDesktop in Azure ([link](https://azurecitadel.github.io/videos/citrixonazure/))
+- Deployment of Citrix XenApp and XenDesktop in Azure ([link](https://azurecitadel.com/fundamentals/citrixonazure/))
 - Turning to a new chapter of windows server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 
 ## Understanding Azure Database Services
