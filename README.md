@@ -41,7 +41,7 @@ Last update: June 22, 2020
 - Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
 - Deployment of Citrix XenApp and XenDesktop in Azure ([link](https://azurecitadel.github.io/videos/citrixonazure/))
 - Turning to a new chapter of windows server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
-- Kubernetes ebook collection ([link](ttps://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection//))
+- Kubernetes ebook collection ([link](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection//))
 
 ## Understanding Azure Database Services
 
