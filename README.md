@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: April 14, 2020
+Last update: June 22, 2020
 
 ## Getting started
 
@@ -11,21 +11,9 @@ Last update: April 14, 2020
 - Azure Migrate ([link](https://azure.microsoft.com/en-us/services/azure-migrate/))
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
+- Well architected framework ([link](https://docs.microsoft.com/en-us/azure/architecture/framework/))
 - Turning to a new chapter of Windows Server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 
-## Migration Planning
-
-- Migration Planning Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Migration%20Planning%20Overview.pptx?raw=true))
-- Example - Discovery Summary ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Example%20-%20Discovery%20Summary.pptx?raw=true))
-- Migrating Datacenter to Azure ([link #1](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/migrating-datacenter-to-azure-part-1/) and [link #2](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/15/migration-datacenter-to-azure-part-2/))
-- VM Assessment with Cloudamize ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/VM%20Assessment%20with%20Cloudamize.pptx?raw=true) and [video](https://1drv.ms/u/s!ArJ-zhtNeLsamMwOEP_LL6YiCqsqrw))
-- VM Assessment with Azure Migrate ([link](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware))
-- SQL Server Assessment with Data Migration Assistant ([link](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017))
-- Template - Database Migration Proposal for Customers ([docx](https://github.com/Microsoft/dcmkit/blob/master/files/Template%20-%20Database%20Migration%20Proposal%20for%20Customers.docx?raw=true))
-- Azure Calculator for CSP Partners ([link](https://azure.microsoft.com/pricing/calculator/channel))
-- Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
-- Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
-- Migration guide for Windows server ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-migration-guide-for-windows-server/Azure_Migration_Guide_for_Windows_Server.pdf/))
 
 ## CSP Onboarding
 
@@ -54,9 +42,11 @@ Last update: April 14, 2020
 - Azure VM Storage Performance and Throttling Demystified ([link](https://blogs.technet.microsoft.com/xiangwu/2017/05/14/azure-vm-storage-performance-and-throttling-demystify/))
 - Deployment of Citrix XenApp and XenDesktop in Azure ([link](https://azurecitadel.github.io/videos/citrixonazure/))
 - Turning to a new chapter of windows server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
+- Kubernetes ebook collection ([link](ttps://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection//))
 
 ## Understanding Azure Database Services
 
+- Database migration guides ([link](https://datamigration.microsoft.com/))
 - Options for running SQL Server in Azure ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/SQL%20Server%20Migration%20Options.pptx?raw=true))
 - Azure SQL Database Managed Instance Overview ([pptx](https://github.com/Microsoft/dcmkit/blob/master/files/Azure%20SQL%20Database%20Managed%20Instance%20Overview.pptx?raw=true))
 - Azure Hybrid Use Benefit for SQL Server Overview ([link](https://azure.microsoft.com/pricing/hybrid-benefit/#sql-server))
@@ -66,10 +56,13 @@ Last update: April 14, 2020
 - Getting started with Azure Cosmos DB ([link](https://www.youtube.com/playlist?list=PLmamF3YkHLoLLGUtSoxmUkORcWaTyHlXp))
 - Onboarding Cosmos DB Best practises ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
 - Optimizing performance and ROI with Cosmos DB ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
+- Best Practices for migrating large databases to Azure Database for MySQ ([link](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/best-practices-for-migrating-large-databases-to-azure-database/ba-p/1362699))
 
 ## Understanding Windows virtual Desktop
 
 - Windows virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
+- How to migrate VDI to Azure and WVD ([link](https://www.youtube.com/watch?v=rkKaWT-tN54&feature=youtu.be))
+- Getting started: Windows Virtual Desktop ARM-based Azure portal ([link](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
 - Windows virtual Desktop **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77015?source=sessions))
 
 ## Migration techniques
@@ -86,6 +79,10 @@ Last update: April 14, 2020
 - Migrating your application, data and infrastructure to azure **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77078?source=sessions))
 - Azure migrate tutorial **Microsoft Mechanics** ([link](https://www.youtube.com/watch?v=0s2ZqHgieT0&feature=youtu.be))
 - An end-to-end process for lifting and shifting your applications to Azure ([link](https://techcommunity.microsoft.com/t5/microsoft-data-migration/an-end-to-end-process-for-lifting-and-shifting-your-applications/ba-p/924874))
+- Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
+- Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
+- Auzre migrate Ebook ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcG8BtSq/original))
+- Migration guide for Windows server ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-migration-guide-for-windows-server/Azure_Migration_Guide_for_Windows_Server.pdf/))
 
 ## Optimizing Azure environments
 
@@ -107,9 +104,13 @@ Last update: April 14, 2020
 - Deploying and Managing Azure Sentinal as Code ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928))
 - Combining Azure Lighthouse with Sentinel’s DevOps capabilities ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#))
 
+## Security
+- Azure Security Expert Series ([link](https://azure.microsoft.com/en-in/overview/security/azure-security-expert-series/))
+
 ## Culture
 
 - Five steps to culture change ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/five-steps-to-culture-change/Five%20Steps%20to%20Culture%20Change.pdf))
+- Differentiate your organization in three key steps ([link](https://blogs.partner.microsoft.com/mpn/differentiate-your-organization-in-three-key-steps/))
 
 ## Other learning resources
 
@@ -125,10 +126,7 @@ Last update: April 14, 2020
 
 ## Azure
 
-Inside azure datacenter **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77002?source=sessions))
-
-Tips and Trics
-
+- Inside azure datacenter **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77002?source=sessions))
 - improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
 - more tips ([link](https://microsoft.github.io/AzureTipsAndTricks/))
 - build session on Azure tips&trics **Build session** ([link](https://mybuild.techcommunity.microsoft.com/sessions/77252?source=sessions))
