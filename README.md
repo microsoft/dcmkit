@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: June 23, 2020
+Last update: january 11, 2020
 
 ## Getting started
 
@@ -62,6 +62,14 @@ Last update: June 23, 2020
 - Windows virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
 - How to migrate VDI to Azure and WVD ([link](https://www.youtube.com/watch?v=rkKaWT-tN54&feature=youtu.be))
 - Getting started: Windows Virtual Desktop ARM-based Azure portal ([link](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
+- Introduction to Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
+- Prepare for Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/))
+- Provision an Azure tenant and set up Azure Active Directory ([link](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/2-provision-azure))
+- Deploy Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/))
+- Optimize Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/))
+- Windows Virtual Desktop Sales and Business Value Fundamentals ([link](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
+- Desktop virtualization using Windows Virtual Desktop-service architecture ([link](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png/))
+- Azure academy WVD on youtube ([link](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK/))
 
 
 ## Migration techniques
@@ -99,6 +107,7 @@ Last update: June 23, 2020
 - Cloud Practice Playbooks ([link](https://partner.microsoft.com/en-US/campaigns/cloud-practice-playbooks))
 - Deploying and Managing Azure Sentinal as Code ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928))
 - Combining Azure Lighthouse with Sentinel’s DevOps capabilities ([link](https://techcommunity.microsoft.com/t5/azure-sentinel/combining-azure-lighthouse-with-sentinel-s-devops-capabilities/ba-p/1210966#))
+- The Ultimate Guide to Windows Server on Azure ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/ultimate-guide-windows-server-on-azure/Ultimate-Guide-to-Windows-Server-on-Azure.pdf))
 
 ## Security
 - Azure Security Expert Series ([link](https://azure.microsoft.com/en-in/overview/security/azure-security-expert-series/))
@@ -124,3 +133,4 @@ Last update: June 23, 2020
 
 - improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
 - Azure tips and Tricks ([link](https://microsoft.github.io/AzureTipsAndTricks/))
+- total economic impact study for azure ([link](https://azurepartners.blob.core.windows.net/media/Resources/Misc/TEI%20for%20Azure%20Partners.pdf))
