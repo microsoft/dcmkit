@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: january 11, 2020
+Last update: january 20, 2020
 
 ## Getting started
 
@@ -13,6 +13,7 @@ Last update: january 11, 2020
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
 - Well architected framework ([link](https://docs.microsoft.com/en-us/azure/architecture/framework/))
 - Turning to a new chapter of Windows Server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
+- Selling Azure Migrate community blog ([link](https://www.microsoftpartnercommunity.com/t5/Selling-Azure-Migrate/gp-p/AzureMigrate))
 
 ## CSP Onboarding
 
