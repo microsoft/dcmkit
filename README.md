@@ -90,6 +90,7 @@ Last update: january 20, 2020
 - Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
 - Auzre migrate Ebook ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcG8BtSq/original))
 - Migration guide for Windows server ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-migration-guide-for-windows-server/Azure_Migration_Guide_for_Windows_Server.pdf/))
+- Azure smart calculator ([link](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/thecloudlabbv1597749548347.smart_azure_calculator?tab=Overview))
 
 ## Optimizing Azure environments
 
