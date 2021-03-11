@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: February 12, 2021
+Last update: March 11, 2021
 
 ## Getting started
 
@@ -137,3 +137,22 @@ Last update: February 12, 2021
 - improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
 - Azure tips and Tricks ([link](https://microsoft.github.io/AzureTipsAndTricks/))
 - total economic impact study for azure ([link](https://azurepartners.blob.core.windows.net/media/Resources/Misc/TEI%20for%20Azure%20Partners.pdf))
+
+## Azure selling
+- Sales and services: A guide to building Resilience ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcOUCy2g/original?ocid=AID3021020_QSG_454842))
+
+  **Cloudlabs Sales training**
+- (1) Introduction Selling Azure Migrate ([link](https://youtu.be/vM7XBTZC6U0))
+- (2) How to match an existing VM with an Azure VM ([link](https://youtu.be/X3SGvIzha-4))
+- (3) Processor generations and the consequences of selecting the right sized Azure VM ([link](https://youtu.be/qDsSRF93NrY))
+- (4) The secrets of the pricing of an Azure VM ([link](https://youtu.be/WzI85ocypgE))
+- (5) How to make a pragmatich storage cost estimate ([link](https://youtu.be/kYCSEHoFjHU))
+- (6) The Cloud Journey ([link](https://youtu.be/PhGQvOwEgwE))
+- (7) Selling Quality of Services ([link](https://youtu.be/curN2lg_Dbw))
+- (8) AWS Azure Compete ([link](https://youtu.be/o813JONPyiM))
+- (9) The new way of selling Azure Migrate ([link](https://youtu.be/RtvRBgMrjc8))
+- (10) GBRAM Core ratios and the impact on pricing ([link](https://youtu.be/hHETJftrbn8))
+- (11) Assess the viability to migrate a Dynamics customer to D365 ([link](https://youtu.be/EOOmXOt6F1k))
+- (12) Building three financial migration scenarios ([link](https://youtu.be/XGInIfzkPAU))
+- (13) Make your Azure business more profitable ([link](https://youtu.be/ObkoCEowWx0))
+- (14) End customer assessment with the CloudLab app ([link](https://youtu.be/bXQuE9fmN14))
