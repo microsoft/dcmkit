@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: March 11, 2021
+Last update: March 23, 2021
 
 ## Getting started
 
@@ -119,6 +119,7 @@ Last update: March 11, 2021
 
 - Five steps to culture change ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/five-steps-to-culture-change/Five%20Steps%20to%20Culture%20Change.pdf))
 - Differentiate your organization in three key steps ([link](https://blogs.partner.microsoft.com/mpn/differentiate-your-organization-in-three-key-steps/))
+- MSP playbook ([link](https://github.com/microsoft/dcmkit/blob/master/files/MSP%20Playbook.pdf))
 
 ## Other learning resources
 
