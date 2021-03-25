@@ -89,7 +89,7 @@ Last update: March 23, 2021
 - An end-to-end process for lifting and shifting your applications to Azure ([link](https://techcommunity.microsoft.com/t5/microsoft-data-migration/an-end-to-end-process-for-lifting-and-shifting-your-applications/ba-p/924874))
 - Azure Migration Center ([link](https://azure.microsoft.com/en-us/migration/))
 - Cloud Migration and Modernization Playbook ([pdf](https://aka.ms/migrationplaybook))
-- Auzre migrate Ebook ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcG8BtSq/original))
+- Azure migrate Ebook ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcG8BtSq/original))
 - Migration guide for Windows server ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-migration-guide-for-windows-server/Azure_Migration_Guide_for_Windows_Server.pdf/))
 - Azure smart calculator ([link](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/thecloudlabbv1597749548347.smart_azure_calculator?tab=Overview))
 
@@ -120,6 +120,7 @@ Last update: March 23, 2021
 - Five steps to culture change ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/five-steps-to-culture-change/Five%20Steps%20to%20Culture%20Change.pdf))
 - Differentiate your organization in three key steps ([link](https://blogs.partner.microsoft.com/mpn/differentiate-your-organization-in-three-key-steps/))
 - MSP playbook ([link](https://github.com/microsoft/dcmkit/blob/master/files/MSP%20Playbook.pdf))
+- Recruit, Hire, Onboard, and Retain Talent | Microsoft Practice Development Playbook ([link](https://assets.microsoft.com/en-us/mpn-playbook-onboarding.pdf))
 
 ## Other learning resources
 
