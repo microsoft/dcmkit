@@ -60,18 +60,18 @@ Last update: July 21, 2021
 
 ## Understanding Azure virtual Desktop
 
-- Windows virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
+- Azure virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
 - How to migrate VDI to Azure and WVD ([link](https://www.youtube.com/watch?v=rkKaWT-tN54&feature=youtu.be))
-- Getting started: Windows Virtual Desktop ARM-based Azure portal ([link](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
-- Introduction to Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
-- Prepare for Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/))
+- Getting started: Azure Virtual Desktop ARM-based Azure portal ([link](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
+- Introduction to Azure Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
+- Prepare for Azure Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/))
 - Provision an Azure tenant and set up Azure Active Directory ([link](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/2-provision-azure))
-- Deploy Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/))
-- Optimize Windows Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/))
-- Windows Virtual Desktop Sales and Business Value Fundamentals ([link](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
+- Deploy Azure Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/))
+- Optimize Azure Virtual Desktop in Microsoft Azure ([link](https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/))
+- Azure Virtual Desktop Sales and Business Value Fundamentals ([link](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([link](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png/))
 - Azure academy WVD on youtube ([link](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK/))
-- WVD: Migration guide for remote desktop services ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcaM0pQQ/original/))
+- AVD: Migration guide for remote desktop services ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcaM0pQQ/original/))
 
 
 ## Migration techniques
