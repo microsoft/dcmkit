@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: March 23, 2021
+Last update: July 21, 2021
 
 ## Getting started
 
@@ -58,7 +58,7 @@ Last update: March 23, 2021
 - Optimizing performance and ROI with Cosmos DB ([link](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-cosmos-db-onboarding-best-practices/Azure%20Cosmos%20DB%20onboarding%20best%20practices.pdf))
 - Best Practices for migrating large databases to Azure Database for MySQ ([link](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/best-practices-for-migrating-large-databases-to-azure-database/ba-p/1362699))
 
-## Understanding Windows virtual Desktop
+## Understanding Azure virtual Desktop
 
 - Windows virtual desktop ([link](https://azure.microsoft.com/en-us/services/virtual-desktop/))
 - How to migrate VDI to Azure and WVD ([link](https://www.youtube.com/watch?v=rkKaWT-tN54&feature=youtu.be))
