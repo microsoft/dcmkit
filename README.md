@@ -12,7 +12,6 @@ Last update: March 14, 2022
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
 - Well architected framework ([link](https://docs.microsoft.com/en-us/azure/architecture/framework/))
-- Selling Azure Migrate community blog ([link](https://www.microsoftpartnercommunity.com/t5/Selling-Azure-Migrate/gp-p/AzureMigrate))
 - Azure strategy and implementation guide ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdc57PgSs/original))
 
 ## CSP Onboarding
