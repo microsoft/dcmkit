@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: July 21, 2021
+Last update: March 14, 2022
 
 ## Getting started
 
@@ -12,8 +12,8 @@ Last update: July 21, 2021
 - Cloud Adoption Framework ([link](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/))
 - Azure lighthouse cross-customer management at scale ([link](https://azure.microsoft.com/en-us/services/azure-lighthouse/))
 - Well architected framework ([link](https://docs.microsoft.com/en-us/azure/architecture/framework/))
-- Turning to a new chapter of Windows Server innovation ([link](https://azure.microsoft.com/en-us/blog/turn-to-a-new-chapter-of-windows-server-innovation/))
 - Selling Azure Migrate community blog ([link](https://www.microsoftpartnercommunity.com/t5/Selling-Azure-Migrate/gp-p/AzureMigrate))
+- Azure strategy and implementation guide ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdc57PgSs/original))
 
 ## CSP Onboarding
 
@@ -21,7 +21,6 @@ Last update: July 21, 2021
 - Azure in CSP Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/azure-csp-overview))
 - Partner Center Overview ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/overview/partner-center-overview))
 - Identity and Right Management in CSP model ([link](https://blogs.technet.microsoft.com/hybridcloudbp/2017/06/05/identity-and-rights-management-in-csp-model-part2))
-- API integration with Azure in CSP ([link](https://docs.microsoft.com/en-us/azure/cloud-solution-provider/integration/available-apis-overview))
 - Azure Cost Management for CSP Partners ([link](https://docs.microsoft.com/azure/cost-management/quick-register-csp))
 - CSP regional authorization FAQ ([pdf](https://github.com/Microsoft/dcmkit/blob/master/files/Regional%20Authorization%20FAQ.pdf?raw=true))
 - New commerce platform ([link](https://partner.microsoft.com/en-US/resources/collection/new-azure-experience-in-csp#/))
@@ -138,6 +137,8 @@ Last update: July 21, 2021
 - improve productivity ([link](https://channel9.msdn.com/Shows/Azure-Friday/Improve-your-productivity-with-Azure-Tips-and-Tricks))
 - Azure tips and Tricks ([link](https://microsoft.github.io/AzureTipsAndTricks/))
 - total economic impact study for azure ([link](https://azurepartners.blob.core.windows.net/media/Resources/Misc/TEI%20for%20Azure%20Partners.pdf))
+- Developer guide to Azure ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcz5VglF/original?ocid=AID3042111))
+- Azure for Architects 3rd edition ([link](https://clouddamcdnprodep.azureedge.net/gdc/1961565/original))
 
 ## Azure selling
 - Sales and services: A guide to building Resilience ([link](https://clouddamcdnprodep.azureedge.net/gdc/gdcOUCy2g/original?ocid=AID3021020_QSG_454842))
