@@ -2,7 +2,7 @@
   
 DCM Kit is a set of materials in a form of documents, decks and external links to help CSP partners in Hoster DC Migration Program (DCM) with their migration journey.
 
-Last update: March 14, 2022
+Last update: July 10, 2022
 
 ## Getting started
 
@@ -129,7 +129,7 @@ Last update: March 14, 2022
 
 ## Certification
 
-- Roadmap ([link](https://future-proof.net/wp-content/uploads/2019/05/Certification_roadmap.pdf))
+- Certification Poster ([link](http://aka.ms/traincertposter))
 
 ## Azure
 
